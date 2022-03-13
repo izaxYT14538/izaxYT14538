@@ -1,3 +1,3 @@
-- 👋 Hi, I’m izax
-- 👀 I’m interested in Apps :)
-- 🌱 I’m currently learning Programming :D
+soy izax ツ
+yo cree OS Simulator
+me gusta linux :D
